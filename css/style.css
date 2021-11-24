@@ -5,8 +5,30 @@
     margin: 0 auto;
 }
 
+/* Header */
 .header__inner {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 2%;
+}
+
+/* Intro Container */
+.intro__container {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Intro */
+.intro__inner {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.circle__img {
+    border-radius: 50%;
+    border: 2px solid #3d3b3b;
+    padding: 5px;
 }
