@@ -106,3 +106,21 @@
     line-height: 1.8em;
     text-align: center;
 }
+
+/* Section Two */
+.sec_two__blockone {
+    background: url(../img/block-two.jpg) no-repeat;
+    background-size: cover;
+    height: 95px;
+}
+.sec_two__blocktwo {
+    background: url(../img/block-two.jpg) no-repeat;
+    background-size: cover;
+    height: 95px;
+    transform: scale(1, -1);
+}
+
+.sec_two__start_inner {
+    height: 75vh;
+    background-color: #1bbc9b;
+}
