@@ -2,10 +2,6 @@
    font-family: 'Lato', sans-serif;
 */
 
-body {
-    background-color: #ededeb;
-}
-
 /* Container */
 .container {
     width: 100%;
@@ -14,10 +10,19 @@ body {
 }
 
 /* Header */
+.header {
+    height: 100%;
+    min-height: 100vh;
+    background-color: #ededeb;
+}
+
 .header__inner {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.header__logo {
     margin-top: 2%;
 }
 
@@ -35,7 +40,6 @@ body {
     text-align: center;
     align-items: center;
     margin-top: 5%;
-    line-height: 1.4;
 }
 
 .circle__img {
