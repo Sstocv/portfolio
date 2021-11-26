@@ -119,7 +119,24 @@ body {
     text-align: center;
 }
 
+/* Socials */
+.social__ul {
+    display: flex;
+    justify-content: center;
+}
+.social__ul li {
+    position: relative;
+    margin-top: 3%;
+    margin-left: 4%;
+}
+.social__ul li:first-child {
+    margin-left: 0;
+}
+
 /* Section Two */
+.sec__two {
+    margin-top: 3%;
+}
 .sec_two__blockone {
     background: url(../img/block-two.jpg) no-repeat;
     background-size: cover;
