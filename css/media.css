@@ -1,0 +1,30 @@
+@media screen and (max-width: 1366px) {
+    header.header {
+        min-height: 100vh;
+    }
+    div.container {
+        max-width: 1100px;
+    }
+    div.intro__inner {
+        margin-top: 7%;
+    }
+    div.start__title {
+        font-size: 5vh;
+    }
+    section.sec__two {
+        margin-top: 1%;
+    }
+    div.sec_two__blockone {
+        height: 100px;
+    }
+    div.sec_two__blocktwo {
+        height: 100px;
+    }
+    div.sec_two__start_inner {
+        height: 70vh;
+        line-height: 2.8;
+    }
+    div.two__start__title {
+        font-size: 5vh;
+    }
+}
