@@ -2,6 +2,17 @@
    font-family: 'Lato', sans-serif;
 */
 
+.main {
+    background-color: #ededeb;
+    text-align: center;
+    height: 100vh;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
 /* Container */
 .container {
     width: 100%;
@@ -12,7 +23,7 @@
 /* Header */
 .header {
     height: 100%;
-    min-height: 100vh;
+    min-height: 75vh;
     background-color: #ededeb;
 }
 
@@ -39,7 +50,7 @@
     justify-content: space-between;
     text-align: center;
     align-items: center;
-    margin-top: 5%;
+    margin-top: 15%;
     line-height: 1.5;
 }
 
