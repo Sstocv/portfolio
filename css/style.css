@@ -95,9 +95,9 @@ body {
 }
 
 .start__title {
-    font-size: 5vh;
+    font-size: 4vh;
     text-transform: uppercase;
-    letter-spacing: 10px;
+    letter-spacing: 20px;
     margin-bottom: 2%;
     font-family: 'Lato', sans-serif;
 }
@@ -119,20 +119,6 @@ body {
     text-align: center;
 }
 
-/* Socials */
-.social__ul {
-    display: flex;
-    justify-content: center;
-}
-.social__ul li {
-    position: relative;
-    margin-top: 3%;
-    margin-left: 4%;
-}
-.social__ul li:first-child {
-    margin-left: 0;
-}
-
 /* Section Two */
 .sec__two {
     margin-top: 3%;
@@ -152,4 +138,14 @@ body {
 .sec_two__start_inner {
     height: 40vh;
     background-color: #1bbc9b;
+    text-align: center;
+    line-height: 2.5;
+}
+
+.two__start__title {
+    color: #fff;
+    font-size: 4vh;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    font-family: 'Lato', sans-serif;
 }

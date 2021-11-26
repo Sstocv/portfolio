@@ -1,0 +1,13 @@
+/* Socials */
+.social__ul {
+    display: flex;
+    justify-content: center;
+}
+.social__ul li {
+    position: relative;
+    margin-top: 5%;
+    margin-left: 4%;
+}
+.social__ul li:first-child {
+    margin-left: 0;
+}
