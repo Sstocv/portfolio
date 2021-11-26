@@ -140,6 +140,9 @@ body {
     height: 40vh;
     background-color: #1bbc9b;
     text-align: center;
+}
+
+.two__start {
     line-height: 2.5;
 }
 
