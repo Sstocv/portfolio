@@ -108,7 +108,7 @@ body {
 
 .sec_one__container {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1070px;
     margin: 0 auto;
 }
 
@@ -123,16 +123,16 @@ body {
 .sec_two__blockone {
     background: url(../img/block-two.jpg) no-repeat;
     background-size: cover;
-    height: 95px;
+    height: 130px;
 }
 .sec_two__blocktwo {
     background: url(../img/block-two.jpg) no-repeat;
     background-size: cover;
-    height: 95px;
+    height: 130px;
     transform: scale(1, -1);
 }
 
 .sec_two__start_inner {
-    height: 75vh;
+    height: 40vh;
     background-color: #1bbc9b;
 }
