@@ -1,0 +1,137 @@
+/* Circle Skills */
+.circle__skills {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.circle__sub {
+    margin-top: 15%;
+}
+
+.circle__one,
+.circle__one span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-45deg);
+    font-size: 40px;
+}
+.circle__one {
+    border: 10px solid #fff;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border-top: #fff;
+    border-left-color: #84f5cc;
+    border-right-color: #84f5cc;
+    border-bottom: #89fad1; 
+    transform: rotate(45deg);
+}
+
+.circle__two,
+.circle__two span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-45deg);
+    font-size: 40px;
+}
+.circle__two {
+    border: 10px solid #fff;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border-top: #fff;
+    border-left-color: #84f5cc;
+    border-right-color: #84f5cc;
+    border-bottom: #89fad1; 
+    transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.circle__three,
+.circle__three span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-45deg);
+    font-size: 40px;
+}
+.circle__three {
+    border: 10px solid #fff;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border-top: #fff;
+    border-left-color: #84f5cc;
+    border-right-color: #84f5cc;
+    border-bottom: #89fad1; 
+    transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.circle__four,
+.circle__four span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-45deg);
+    font-size: 40px;
+}
+.circle__four {
+    border: 10px solid #fff;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border-top: #fff;
+    border-left-color: #84f5cc;
+    border-right-color: #84f5cc;
+    border-bottom: #89fad1; 
+    transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.circle__five,
+.circle__five span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-45deg);
+    font-size: 40px;
+}
+.circle__five {
+    border: 10px solid #fff;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border-top: #fff;
+    border-left-color: #84f5cc;
+    border-right-color: #84f5cc;
+    border-bottom: #89fad1; 
+    transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.circle__six,
+.circle__six span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-45deg);
+    font-size: 40px;
+}
+.circle__six {
+    border: 10px solid #fff;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border-top: #fff;
+    border-left-color: #84f5cc;
+    border-right-color: #84f5cc;
+    border-bottom: #89fad1; 
+    transform: rotate(45deg);
+    transform: rotate(45deg);
+}
