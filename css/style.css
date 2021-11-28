@@ -148,3 +148,19 @@
     letter-spacing: 20px;
     font-family: 'Lato', sans-serif;
 }
+
+/* Section Three */
+.sec__three {
+    text-align: center;
+}
+
+.sec__three__title {
+    font-size: 4vh;
+}
+
+.three__img {
+    margin-left: 12%;
+}
+.three__img:first-child {
+    margin-left: 0;
+}
