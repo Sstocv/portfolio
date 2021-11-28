@@ -152,14 +152,22 @@
 /* Section Three */
 .sec__three {
     text-align: center;
+    margin-top: 3%;
 }
 
 .sec__three__title {
+    display: inline-block;
+    width: 200px;
     font-size: 4vh;
+    border-bottom: 2px solid #1bbc9b;
+    font-family: 'Lato', sans-serif;
+    color: #2b2b2b;
+    padding-bottom: 1%;
 }
 
 .three__img {
     margin-left: 12%;
+    margin-top: 5%;
 }
 .three__img:first-child {
     margin-left: 0;
