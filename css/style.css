@@ -179,3 +179,19 @@
     background-size: cover;
     height: 100vh;
 }
+
+.sec__three__inner {
+}
+
+.sec__three__block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec__three__inner__title {
+    font-family: 'Lato', sans-serif;
+    color: #2b2b2b;
+    letter-spacing: 20px;
+    font-size: 4vh;
+    line-height: 2;
+}
