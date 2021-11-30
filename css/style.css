@@ -172,3 +172,10 @@
 .three__img:first-child {
     margin-left: 0;
 }
+
+/* Section Four */
+.sec__four {
+    background: url(/img/block-four-bg.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
