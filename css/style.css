@@ -201,7 +201,12 @@
 
 /* Section Four */
 .sec__four {
+    display: block;
     background: url(/img/block-four-bg.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
+}
+
+.sec__four__inner {
+    text-align: center;
 }
